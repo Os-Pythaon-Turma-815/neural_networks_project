@@ -1,0 +1,11 @@
+# Python 3.10.6
+# Conda
+
+Jupyter
+Keras
+Matplotlib
+Numpy
+Pandas
+Seaborn
+Scikit-Learn
+Tensorflow
