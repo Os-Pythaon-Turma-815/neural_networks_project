@@ -1,6 +1,6 @@
 # Projeto de Conclusão de Módulo de Redes Neurais
 
-Projeto entregue como parte dos requisitos para a conclusão do módulo de redes neurais do curswo de Data Science & Machine Learning da ADA Academy
+Projeto entregue como parte dos requisitos para a conclusão do módulo de redes neurais do curso de Data Science & Machine Learning da ADA Academy
 
 ## Objetivos
 
@@ -37,6 +37,8 @@ Em breve...!
 5. Projeto
 
 ## Notebooks principais
+
+Colocar depois de terminado -> consultar diretório "notebooks" que estejam sincronizados com o projeto.
 
 ## Membros do Time
 
